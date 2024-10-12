@@ -1,0 +1,56 @@
+# Builds
+Binaries/
+Saved/
+Intermediate/
+
+# Configuration files
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# Backup files
+*.bak
+*.tmp
+
+# VS Code files
+.vscode/
+
+# Misc
+*.DS_Store
+Thumbs.db
+
+# Unreal Engine specific ignore patterns
+DerivedDataCache/
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserdata/
+*.framework/
+*.app/
+*.ipa/
+*.apk/
+*.apk.exp/
+*.cache/
+*.pak/
+
+# Logs
+*.log
+*.log.bin
+
+# Distribution
+*.PDB
+*.DSYM
+
+# Ignore optional files
+*.ovia
+.metal
+*.pyc
+*.pdb
+
+# Ignore directories used in editor
+Localization/
+Build/
+
+# User-specific files
+*.opendb
+*.opensdf
